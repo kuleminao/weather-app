@@ -67,3 +67,8 @@ h1 {
   position: relative;
   top: -34px;
 }
+
+.open-source {
+  font-size: 12px;
+  margin-top: 20px;
+}
